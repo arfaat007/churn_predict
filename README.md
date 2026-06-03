@@ -170,17 +170,25 @@ Recommendation: Offer retention discount or priority customer support.
 ## Screenshots
 
 
-### Home / Login Page
+### Ai chatbot 
 
-![Home Page](screenshots/home_page.png)
+![AI_ChatBot](screenshots/Churn_Ai_ChatBot.png)
 
 ### Churn Prediction Page
 
-![Prediction Page](screenshots/prediction_page.png)
+![Prediction Page](screenshots/Churn_prediction.png)
 
 ### Analytics Dashboard
 
-![Analytics Dashboard](screenshots/analytics_dashboard.png)
+![Analytics Dashboard](screenshots/Analytics_dashbord.png)
+
+### Explainable Ai
+
+![Explainable_AI](screenshots/Explainable_AI.png)
+
+## Admin Panel
+
+![Adimin_panel](screenshots/Admin_Panel.png)
 
 ---
 
